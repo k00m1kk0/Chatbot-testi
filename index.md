@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Felix's Chatbot project home page
 
-You can use the [editor on GitHub](https://github.com/k00m1kk0/chatbot-testi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](src)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As part of International Baccalaureate (IB) school system, there is more involved project to be done at the end of 9th grade. This is the Middle Years Program (MYP) project. Felix Kallio studied Machine Learning and Artificial Intelligence and developed through experimentation a Chatbot, which has been trained to answer questions about this very project. 
 
-### Markdown
+### Give it a try!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can have a discussion with the Chatbot. Click the link below to intiate the chat. Chatbot continues to learn through all of these interactions! The more you talk to the Chatbot, the better answers it will start to provide. 
 
-```markdown
-Syntax highlighted code block
+[Link](https://console.dialogflow.com/api-client/demo/embedded/b9123995-84ab-4305-9f24-461b9755306c)
 
-# Header 1
-## Header 2
-### Header 3
+Please note that if you are using an iPhone to access the bot, you need to click "rivinvaihto" after typing your question. 
 
-- Bulleted
-- List
+### Technical details
 
-1. Numbered
-2. List
+The Chatbot was created in Google Cloud using Dialogflow engine. 
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k00m1kk0/chatbot-testi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any other questions which the Chatbot is unable to answer, feel free to ask Felix (kallio.felix@gmail.com)
