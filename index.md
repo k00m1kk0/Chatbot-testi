@@ -1,6 +1,6 @@
 ## Welcome to Felix's Chatbot project home page
 
-![Image](src)
+<img src="IMG_20210308_095903__01.jpg" alt="chatbot icon" width="200">
 
 As part of International Baccalaureate (IB) school system, there is more involved project to be done at the end of 9th grade. This is the Middle Years Program (MYP) project. Felix Kallio studied Machine Learning and Artificial Intelligence and developed through experimentation a Chatbot, which has been trained to answer questions about this very project. 
 
